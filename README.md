@@ -2,9 +2,9 @@
 
 # This is my first Blockchain project that I have been developing for one of my clients on freelacer.com
 
-This is a node API which connects to blockchain network
+This API is able connect to the blockchain network whereby a..... 
 - user can create account 
-- verify email
+- verify his/her email
 - login into their wallet using password/OTP
 - on successful signup user can claim 1 Token into their wallet 
 - verified user can transfer Token just by specifying the email of recipient
