@@ -12,7 +12,7 @@ const sendSignUpOtp = async (user) => {
 
   sgMail.send({
     to: user.email,
-    from: 'nyashakarata35@gmail.com',
+    from: 'nyashakarata36@gmail.com',
     subject: 'OTP for Blockchain Wallet',
     text: `Welcome ${user.name} to the Blockchain wallet, your OTP is ${a}, please verify this to start using your wallet.`,
   });
