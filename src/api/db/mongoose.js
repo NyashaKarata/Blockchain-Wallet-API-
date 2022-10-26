@@ -1,4 +1,4 @@
-import mongoose from 'mongo';
+import mongoose from 'mogo';
 
 mongoose.connect(process.env.MONGODB_URL, {
   useNewUrlParser: true,
